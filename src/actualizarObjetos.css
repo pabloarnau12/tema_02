@@ -1,0 +1,12 @@
+/* actualizarObjetos.css */
+
+form{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+input{
+    margin-top: 15px;
+    margin-left: 10px;
+}
